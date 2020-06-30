@@ -69,5 +69,6 @@ def organize_campuses(hash)
       new_hash[state] = [school]
     end }
     new_hash
+    
 end
 
