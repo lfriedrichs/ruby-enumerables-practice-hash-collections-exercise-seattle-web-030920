@@ -72,3 +72,4 @@ def organize_campuses(hash)
     
 end
 
+
